@@ -1,1 +1,1 @@
-### An emulator and rom manager for the Steam Deck
+### A simple emulator and rom manager for the Steam Deck
